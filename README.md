@@ -40,7 +40,7 @@ Importance of IDEs: Has built-in debuggers that help identify and fix issues ear
 Example: Visual Studio Code -VS Code
 
 Importance of VCS: Helps developers track and manage changes to code over time, enabling collaboration and it allows multiple developers to work on the same project without conflicts.
-Example: Git and GitHub
+Example: Git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Debugging and Fixing bugs: Identifying and fixing bugs can be challenging and time-consuming.
